@@ -164,6 +164,11 @@ var config_data = `
     }
   ],
   "postmatch": [
+      {
+    "name": "Final match score",
+    "code": "fms",
+    "type": "number",   
+    },
     { "name": "Attained Coopertition Pt",
       "code": "cop",
       "type": "bool"
@@ -230,11 +235,6 @@ var config_data = `
       "tooltip": "Would you want this robot on your alliance in eliminations?",
       "code": "all",
       "type": "bool"
-    },
-    {
-    "name": "Final match score",
-    "code": "fms",
-    "type": "number",   
     },
     { "name": "Comments",
       "code": "co",
