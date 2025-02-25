@@ -231,6 +231,11 @@ var config_data = `
       "code": "all",
       "type": "bool"
     },
+    {
+    "name": "Final match score",
+    "code": "fms",
+    "type": "number",   
+    }
     { "name": "Comments",
       "code": "co",
       "type": "text",
