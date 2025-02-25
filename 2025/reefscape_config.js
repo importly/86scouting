@@ -167,7 +167,7 @@ var config_data = `
       {
     "name": "Final match score",
     "code": "fms",
-    "type": "number",   
+    "type": "number"   
     },
     { "name": "Attained Coopertition Pt",
       "code": "cop",
