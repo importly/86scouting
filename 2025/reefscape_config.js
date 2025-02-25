@@ -235,7 +235,7 @@ var config_data = `
     "name": "Final match score",
     "code": "fms",
     "type": "number",   
-    }
+    },
     { "name": "Comments",
       "code": "co",
       "type": "text",
