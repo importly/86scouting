@@ -40,7 +40,7 @@ var config_data = `
 }
 
   ],
-  "auto": [
+  "auton": [
     { "name": "Leave Starting Line",
       "code": "al",
       "type": "bool"
