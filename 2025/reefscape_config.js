@@ -169,6 +169,11 @@ var config_data = `
     "code": "fms",
     "type": "number"   
     },
+          {
+    "name": "Penalties",
+    "code": "penals",
+    "type": "number"
+    },
     { "name": "Attained Coopertition Pt",
       "code": "cop",
       "type": "bool"
